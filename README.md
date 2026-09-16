@@ -8,7 +8,7 @@ The main objective was to gain practical experience in handling datasets that ar
 
 The portfolio consists of three main projects:
 
-1. Large-Scale LiDAR Point Cloud Processing with Dask
+1.Large-Scale LiDAR Point Cloud Processing with Dask
 
 The first project focuses on processing and analysing large-scale LiDAR (Light Detection and Ranging) point-cloud data using Python and Dask. The LiDAR dataset covers areas of the German state of Thuringia and is provided as individual 1 km × 1 km spatial tiles.
 
