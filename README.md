@@ -32,7 +32,7 @@ A major part of the project involves dealing with the practical issues that aris
 
 The project demonstrates how Python can be used to automate large-scale environmental data acquisition and preprocessing, creating a reproducible workflow that can be extended to hundreds or thousands of weather stations across Germany.
 
-3. Tree-Species Classification Using Transfer Learning with Keras and Xception
+3.Tree-Species Classification Using Transfer Learning with Keras and Xception
 
 The third project focuses on applying deep learning and transfer learning to tree-species image classification.
 
