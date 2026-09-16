@@ -20,7 +20,7 @@ The workflow includes tasks such as reading and organising the tiled LiDAR data,
 
 The project demonstrates how Dask can be used as a practical framework for scaling Python-based geospatial workflows when working with large point-cloud datasets.
 
-2. Germany-Wide Weather Data Collection and Analysis Using the DWD API
+2.Germany-Wide Weather Data Collection and Analysis Using the DWD API
 
 The second project focuses on the automated collection and processing of weather-station data from across Germany using data provided by the German Weather Service (Deutscher Wetterdienst – DWD).
 
