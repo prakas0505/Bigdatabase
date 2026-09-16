@@ -1,5 +1,5 @@
 # Big database with ML  #
-This is my Bigdata base Project Repo.
+This is Bigdata base Project Repo.
 Author - Prakash Gautam
 
 This project portfolio brings together several practical projects focused on large-scale geospatial data processing, environmental data analysis, and machine learning. The projects use Python and a range of modern data-processing and machine-learning libraries to work with different types of real-world datasets, including LiDAR point clouds, meteorological observations, and tree-species images.
